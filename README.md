@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
@@ -36,4 +38,4 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamich&" alt="nonamich" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=nonamich&locale=en&theme=github_dark&hide_border=true" alt="nonamich" />
