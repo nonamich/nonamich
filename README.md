@@ -1,45 +1,21 @@
-<div>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-</div>
+<h1 align="center">nonamich nonamich</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nonamich&label=Profile%20views&color=0e75b6&style=flat" alt="nonamich" /> </p>
 
-<br clear="both">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nonamich" alt="nonamich" /></a> </p>
 
-<div>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
-</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<br clear="both">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="198" alt="streak graph"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&show_icons=true&locale=en&layout=compact" alt="nonamich" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamich&show_icons=true&locale=en" alt="nonamich" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamich&" alt="nonamich" /></p>
