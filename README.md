@@ -33,10 +33,10 @@
 <br clear="both">
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&show_icons=true&locale=en&layout=compact" alt="nonamich" /></p>
 <div>
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 </div
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&show_icons=true&locale=en" alt="nonamich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamich&show_icons=true&locale=en" alt="nonamich" /></p>
 
