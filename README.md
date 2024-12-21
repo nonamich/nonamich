@@ -35,7 +35,7 @@
 
 <div>
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&show_icons=true" alt="nonamich" height="190" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="nonamich" height="190" />
 </div
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamich&show_icons=true" alt="nonamich" /></p>
