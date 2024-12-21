@@ -36,6 +36,8 @@
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
 </div>
 
+<br clear="both">
+
 <div>
   <img src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
