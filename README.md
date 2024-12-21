@@ -28,16 +28,11 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
 </div>
 
-###
-
 <br clear="both">
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="nonamich" height="190" />
 
-<div>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" alt="nonamich" height="190" />
-</div
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamich&show_icons=true" alt="nonamich" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nonamich&show_icons=true" alt="nonamich" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamich&" alt="nonamich" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nonamich&" alt="nonamich" />
