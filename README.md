@@ -30,12 +30,11 @@
 <br clear="both">
 <div>
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=nonamich&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nonamich&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="190" alt="stats graph"  />
 </div>
 <br clear="both">
 <div align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" alt="streak graph">
-  &nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" alt="streak graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=300&langs_count=6&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
 </div>
 
