@@ -39,7 +39,7 @@
 <br clear="both">
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="198" alt="streak graph"  />
 </div>
 
 ###
