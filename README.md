@@ -29,7 +29,9 @@
 </div>
 <br clear="both">
 <div>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=php%2Cnodejs%2Cbackend%2Cdevops" alt="roadmap.sh"/>
+  </a>
   <img src="https://github-readme-stats.vercel.app/api?username=nonamich&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="190" alt="stats graph"  />
 </div>
 <br clear="both">
