@@ -20,6 +20,6 @@
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark" alt="roadmap.sh"/></a>
 </div>
 <br clear="both">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=290&langs_count=6&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
