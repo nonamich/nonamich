@@ -21,7 +21,7 @@
 </div>
 <br clear="both">
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nonamich&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" alt="streak graph">
+  <a href="https://git.io/streak-stats"><img height="180" src="https://streak-stats.demolab.com?user=nonamich&theme=github-dark&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&layout=compact&card_width=290&langs_count=6&theme=github_dark&hide_border=true" height="175" alt="languages graph"  />
 </div>
 
