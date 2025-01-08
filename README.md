@@ -20,6 +20,6 @@
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark" alt="roadmap.sh"/></a>
 </div>
 <br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&hide_title=true&card_width=290&langs_count=6&theme=github_dark&hide_border=true" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&&langs_count=10&theme=github_dark&hide_border=true" alt="languages graph"  />
 </div>
