@@ -1,32 +1,34 @@
 <div>
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/TypeScript.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/JavaScript.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Bash-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/PHP-Dark.svg" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NodeJS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NestJS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NextJS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/React-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Remix-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/ExpressJS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Laravel-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Wordpress.svg" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Docker.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Nginx.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/AWS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Cloudflare-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Linux-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Grafana-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GithubActions-Dark.svg" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Redis-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/GraphQL-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Pnpm-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Trpc.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Typeorm-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Prisma.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/TailwindCSS-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Arduino.svg" height="40" />
 </div>
 <br clear="both">
 <div>
@@ -35,16 +37,6 @@
 </div>
 <br clear="both">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&&langs_count=5&theme=github_dark&hide_border=true" alt="languages graph"  />
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&card_width=310&langs_count=8&theme=github_dark&hide_border=true&layout=compact" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nonamich&theme=github_dark&rank_icon=github&hide_border=true" alt="languages stat" />
 </div>
