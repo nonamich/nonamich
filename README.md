@@ -1,8 +1,8 @@
 <div>
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
@@ -35,5 +35,16 @@
 </div>
 <br clear="both">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&&langs_count=10&theme=github_dark&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nonamich&locale=en&&langs_count=5&theme=github_dark&hide_border=true" alt="languages graph"  />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
