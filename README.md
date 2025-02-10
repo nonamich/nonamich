@@ -14,6 +14,19 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="linux logo"  />
 </div>
 <br clear="both">
 <div>
