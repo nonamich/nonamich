@@ -34,8 +34,8 @@
 </div>
 <br clear="both">
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nonamich&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="190" alt="stats graph"  />
  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674354f65434bf319aa6da84?variant=dark&roadmaps=nodejs%2Ckubernetes%2Cdevops%2Cphp" alt="roadmap.sh"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nonamich&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="190" alt="stats graph"  />
 </div>
 <br clear="both">
 <div>
