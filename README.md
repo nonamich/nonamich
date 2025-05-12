@@ -1,16 +1,18 @@
 <div>
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/PHP-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/TypeScript.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/JavaScript.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Bash-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/PHP-Dark.svg" height="40" />
   
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Symfony-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Laravel-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NodeJS-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NestJS-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/NextJS-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/React-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/VueJS-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Remix-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/ExpressJS-Dark.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Laravel-Dark.svg" height="40" />
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Wordpress.svg" height="40" />
   
   <img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Docker.svg" height="40" />
